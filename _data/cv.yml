@@ -2,22 +2,21 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Vanple, Pei WANG
     - name: Date of Birth
-      value: 14th March 1879
+      value: 23rd December 1998
     - name: Languages
-      value: English, German
+      value: English, Chinese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master of Science, Electrical and Computer Engineering
+      institution: University of California, Los Angeles
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Focusing on signal processing and machine learning.
+        - title: Courses
           contents:
             - Sub-description 1.
             - Sub-description 2.

@@ -2,24 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: vanple.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>vanplewang@ucla.edu</p>
+    <p>972 Hilgard Ave</p>
+    <p>Los Angeles, California</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to my website! My name is Pei Wang, and I'm currently a graduate student in the Electrical and Computer Engineering (ECE) department at the University of California, Los Angeles (UCLA). My research interests lie in the intersection of signal processing and machine learning, with a focus on computer vision and its application to edge devices.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+During my undergraduate studies at City University of Hong Kong, I worked on optical imaging systems and photoacoustic imaging systems. I've also explored my interest in developing edge devices using various sensors, such as Raspberry Pi and Arduino, and I have experience with sensors powered by FPGA.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My ultimate goal is to use my skills and knowledge to create innovative solutions that make a positive impact on society. Thank you for visiting my website, and feel free to reach out to me with any inquiries or potential collaborations.
